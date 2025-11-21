@@ -1,0 +1,46 @@
+h1 {
+    text-align: center;
+    color: red;
+}
+
+h2 {
+    color:blueviolet;
+    text-decoration: underline;
+}
+
+.Ingredients {
+    color: blue;
+    font-weight:200;
+}
+
+#list_Ingredients {
+    color:blue;
+}
+
+.Instructions {
+    color: green;
+    font-weight:200;
+}
+
+#List_Instructions {
+    color: green;
+}
+
+p {
+    color: brown;
+}
+
+h4 {
+    color: brown;
+}
+
+.About_Writer {
+    color: chocolate;
+    border: 10px solid;
+}
+
+.Describtion_writer {
+    color: rgb(93, 138, 138);
+}
+
+

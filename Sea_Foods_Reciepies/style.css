@@ -1,0 +1,33 @@
+h1 {
+    color: red;
+    text-align: center;
+    font-family:'Courier New';
+
+}
+
+h2 {
+    color:blueviolet;
+    text-decoration: underline;
+}
+
+.Ingredients {
+    color: blue;
+    font-weight:200;
+}
+
+#list_Ingredients {
+    color:blue;
+}
+
+.Instructions {
+    color: green;
+    font-weight:200;
+}
+
+#List_Instructions {
+    color: green;
+}
+
+h4 {
+    color: brown;
+}

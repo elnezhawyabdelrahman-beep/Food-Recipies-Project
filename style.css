@@ -1,0 +1,17 @@
+body {
+    background-color:blueviolet;
+}
+
+h1 {
+    text-align: center;
+    background-color: red;
+    border-radius: 20px;
+}
+
+h2 {
+    color: white;
+}
+
+ a{
+    color: blue;
+}
